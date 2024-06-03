@@ -1,6 +1,6 @@
-## Yash | Web Developer 
+## Yash | Software Developer 
 
-I'm a passionate Web Developer with a strong understanding of web development technologies, data visualization tools, and digital media editing. I'm excited to leverage my skills to build engaging web applications, create insightful data visualizations, and craft compelling multimedia content.
+I'm a passionate software Developer with a strong understanding of web development technologies, data visualization tools, and digital media editing. I'm excited to leverage my skills to build engaging web applications, create insightful data visualizations, and craft compelling multimedia content.
 
 **Key Skills:**
 

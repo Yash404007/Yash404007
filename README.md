@@ -9,10 +9,10 @@ I'm a passionate Web Developer with a strong understanding of web development te
 * **Digital Media Editing:** Adobe Photoshop, Premiere Pro, Canva, DaVinci
 
 **Stats:**
-**[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash404007&...)](https://github.com/yash404007)**
-<div align="center">
-  <span>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash404007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /></span>
-</div>
+
+<span>**[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash404007&...)](https://github.com/yash404007)**</span>
+<span>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash404007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /></span>
+
 
 
 <br/>

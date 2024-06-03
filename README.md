@@ -18,8 +18,8 @@ I'm a passionate Web Developer with a strong understanding of web development te
 
 **Contact:**
 
-* Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yash-surve-24414255).
+* Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yash-surve-244414255).
 
 **Looking to collaborate?**
 
-I'm always open to new opportunities and challenges. Feel free to send me an email at [yashsurve-inft@atharvacoe.ac.in].
+I'm always open to new opportunities and challenges. Feel free to send me an email at yashsurve-inft@atharvacoe.ac.in.
